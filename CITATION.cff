@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use or reference ISRM, please cite the canonical v1.0 release."
+title: "ISRM v1.0 — Intelligent Systems Reference Model: A Technology-Neutral Reference Model for Intelligent and Goal-Directed Systems"
+type: report
+authors:
+  - family-names: "Reitz"
+    given-names: "Marcel"
+version: "1.0"
+date-released: "2026-10-03"
+doi: "10.5281/zenodo.23115842"
+url: "https://doi.org/10.5281/zenodo.23115842"
+license: "CC-BY-4.0"
+keywords:
+  - Intelligent Systems Reference Model
+  - ISRM
+  - artificial intelligence
+  - AI agents
+  - agentic AI
+  - autonomous systems
+  - multi-agent systems
+  - robotics
+  - cyber-physical systems
+  - reference model
+  - reference architecture
+  - AI governance
+  - AI safety
+  - interoperability
+  - conformance testing
+  - standardization
