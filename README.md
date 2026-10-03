@@ -11,6 +11,23 @@
 **Public release:** 3 October 2026  
 **Canonical v1.0 DOI:** [10.5281/zenodo.23115842](https://doi.org/10.5281/zenodo.23115842)
 
+## ISRM v1.0 documents
+
+The complete public v1.0 document set is available directly in this repository. These PDFs are synchronized from the canonical Zenodo release.
+
+| Document | PDF |
+|---|---|
+| **ISRM v1.0 Public Specification** | [Open PDF](docs/publications/01_ISRM_v1.0_Public_Specification.pdf) |
+| **ISRM Whitepaper** | [Open PDF](docs/publications/02_ISRM_Whitepaper.pdf) |
+| **Validation and Falsification Report** | [Open PDF](docs/publications/03_ISRM_Validation_and_Falsification_Report.pdf) |
+| **Prior Art and Standards Crosswalk** | [Open PDF](docs/publications/04_ISRM_Prior_Art_and_Standards_Crosswalk.pdf) |
+| **Reference Implementation Validation Report** | [Open PDF](docs/publications/10_ISRM_Reference_Implementation_Validation_Report.pdf) |
+| **Final Internal Validation Addendum** | [Open PDF](docs/publications/16_ISRM_Final_Internal_Validation_Addendum.pdf) |
+
+**Canonical archived release:** [Zenodo record 23115842](https://zenodo.org/records/23115842) · **DOI:** [10.5281/zenodo.23115842](https://doi.org/10.5281/zenodo.23115842)
+
+> For citation and provenance, use the DOI. The copies in this repository are provided for convenient reading and project discovery.
+
 ## What is ISRM?
 
 The **Intelligent Systems Reference Model (ISRM)** describes how intelligent and goal-directed systems transform intent or events, perceived information and contextual state into decisions, authorized actions and observable effects.
