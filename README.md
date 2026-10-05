@@ -28,6 +28,14 @@ The complete public v1.0 document set is available directly in this repository. 
 
 > For citation and provenance, use the DOI. The copies in this repository are provided for convenient reading and project discovery.
 
+### German translation / Deutsche Übersetzung
+
+An official German translation of ISRM v1.0 is available for German-language use, discussion and standardization work:
+
+**[ISRM v1.0 — Offizielle deutsche Übersetzung](docs/de/ISRM_v1.0_DE.md)**
+
+The DOI-published English v1.0 remains the authoritative reference in case of discrepancies.
+
 ## What is ISRM?
 
 The **Intelligent Systems Reference Model (ISRM)** describes how intelligent and goal-directed systems transform intent or events, perceived information and contextual state into decisions, authorized actions and observable effects.
