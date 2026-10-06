@@ -113,6 +113,19 @@ ISRM v1.0 defines:
 
 Every ISRM system may simultaneously be a complete ISRM system and part of another system's environment. This supports coordinator/worker agents, robot fleets, nested autonomous systems and other systems-of-systems without requiring a special multi-agent layer.
 
+## Reproducible validation assets
+
+The executable ISRM v1.0 internal validation harnesses and result summaries are published in [`validation/`](validation/README.md).
+
+- [Reference implementation validation harness](validation/reference_validation.py)
+- [Edge-case and randomized invariant harness](validation/edge_case_validation.py)
+- [Conformance test matrix](validation/conformance_test_matrix.csv)
+- [Reference results summary](validation/reference_results_summary.csv)
+- [Edge-case results summary](validation/edge_case_results_summary.csv)
+- [Property-test results](validation/property_results.json)
+
+The harnesses use only the Python standard library and can be executed independently. These are internal validation/falsification assets, not independent certification.
+
 ## Validation
 
 The v1.0 development package was exercised against deterministic control, tool-using software agents and recursive multi-agent reference implementations.
