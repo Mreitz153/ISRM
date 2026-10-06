@@ -1,0 +1,31 @@
+test_id,title
+CT-01,Authorized intent
+CT-02,Event-derived intent
+CT-03,Ambiguous intent clarification
+CT-04,Uncertainty-aware deferral
+CT-05,Conflicting observations
+CT-06,Insufficient authority
+CT-07,Authority escalation denied
+CT-08,Partial execution
+CT-09,Duplicate execution
+CT-10,Confirmed effect
+CT-11,Concurrent episode arbitration
+CT-12,Stale context revalidation
+CT-13,Delegation
+CT-14,Nested delegation bound
+CT-15,Untrusted input
+CT-16,Instruction injection
+CT-17,Adaptation gating
+CT-18,Adaptation regression
+CT-19,Episode recovery
+CT-20,Unknown execution state
+CT-21,Human approval
+CT-22,Human denial
+CT-23,Conflicting intents
+CT-24,Starvation prevention
+CT-25,Unavailable capability
+CT-26,Rollback failure
+CT-27,Expired authorization
+CT-28,Identity change
+CT-29,System boundary
+CT-30,Deterministic mapping
