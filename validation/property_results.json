@@ -1,0 +1,10 @@
+{
+  "iterations_per_family": 50000,
+  "violations": {
+    "authority_monotonicity": 0,
+    "uncertainty_non_creation": 0,
+    "candidate_not_authorized": 0,
+    "idempotency": 0,
+    "delegation_intersection": 0
+  }
+}
