@@ -30,7 +30,16 @@ The complete public v1.0 document set is available directly in this repository. 
 
 ### German translation / Deutsche Übersetzung
 
-An official German translation of ISRM v1.0 is available for German-language use, discussion and standardization work:
+The official German translation and the complete German PDF documentation package are available under **[docs/de/](docs/de/README.md)**.
+
+Direct links:
+- [German ISRM v1.0 specification (PDF)](docs/de/02_ISRM_v1.0_Spezifikation_DE.pdf)
+- [German validation and falsification report (PDF)](docs/de/03_ISRM_Validierung_Falsifikation_DE.pdf)
+- [Complete German documentation index](docs/de/README.md)
+
+The DOI-published English v1.0 remains the authoritative reference in case of discrepancies.
+
+zation work:
 
 **[ISRM v1.0 — Offizielle deutsche Übersetzung](docs/de/ISRM_v1.0_DE.md)**
 
